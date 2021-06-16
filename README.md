@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Lidianne Romão, I'm from 🇧🇷: I'm a Systems Developer student since march/2021.
+My name is Lidianne Romão, I'm from 🇧🇷 I'm a Systems Developer student since march/2021.
 
 I'm passionate about solving problems and share knowledge. Always open to new challenges and ready to face changes.
 
@@ -10,7 +10,7 @@ I'm passionate about solving problems and share knowledge. Always open to new ch
 - 📫 How to reach me: lidiannerb@gmail.com
 - ⚡ Fun fact: I really like to sing 🎤 but I'm not so good
 - I'm ♈
-- I've been in UK  🇬🇧
+- I've been in UK 🇬🇧
 - I've been in Italy  🇮🇹
 - I've beem in Netherlans 🇳🇱
 - I've beem in Spain 🇪🇸
