@@ -10,8 +10,4 @@ I'm passionate about solving problems and share knowledge. Always open to new ch
 - 📫 How to reach me: lidiannerb@gmail.com
 - ⚡ Fun fact: I really like to sing 🎤 but I'm not so good
 - I'm ♈
-- I've been in UK 🇬🇧
-- I've been in Italy  🇮🇹
-- I've beem in Netherlans 🇳🇱
-- I've beem in Spain 🇪🇸
 
