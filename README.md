@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Lidianne Romão, I'm from Brazil. I'm a Systems Developer student since march/2021.
+My name is Lidianne Romão, I'm from Brazil. I'm a Systems Developer student since january/2021.
 
 I'm passionate about solving problems and share knowledge. Always open to new challenges and ready to face changes.
 
