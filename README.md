@@ -2,7 +2,7 @@
 
 My name is Lidianne Romão, I'm from Brazil. I'm a Back End student since march/2021.
 
-I'm passionate about solving problems and share knowledge. Always open to new challenges and ready to face changes.
+I'm passionate about solving problems and sharing knowledge. I'm always open to new challenges and ready to face changes.
 
 ### When we teach, that's when we learn
 
