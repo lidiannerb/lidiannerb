@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Lidianne Romão, I'm from Brazil. I'm a Back End student since march/2021.
+My name is Lidianne Romão, I'm from Brazil. I'm a Front-End development student at Laboratória-SP.
 
 I'm passionate about solving problems and sharing knowledge. I'm always open to new challenges and ready to face changes.
 
