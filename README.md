@@ -13,3 +13,6 @@ I'm passionate about solving problems and sharing knowledge. I'm always open to 
 - Linkedin: https://www.linkedin.com/in/lromao/
 
 
+https://github-readme-stats.vercel.app/api?username=lidiannerb&show_icons=true&theme=bear&include_all_commits=true&count_private=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=lidiannerb&layout=compact&langs_count=7&theme=bear
