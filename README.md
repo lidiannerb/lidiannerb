@@ -9,7 +9,9 @@ I'm passionate about solving problems and sharing knowledge. I'm always open to 
 - 🌱 I’m currently learning about Javascript, CSS, HTML, React e Firebase.
 - ⚡ Fun fact: I really like to sing 🎤 but I'm not so good
 - I'm ♈
+
 #
+
 📫 How to reach me:
 <div align="center">  
    <a href = "https://www.linkedin.com/in/lromao/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
