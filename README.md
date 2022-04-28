@@ -18,7 +18,7 @@ I'm passionate about solving problems and sharing knowledge. I'm always open to 
    <a href = "mailto:lidiannerb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-#
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lidiannerb&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
