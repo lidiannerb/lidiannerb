@@ -8,7 +8,7 @@ I'm passionate about solving problems and sharing knowledge. I'm always open to 
 
 - 🌱 I’m currently learning about Javascript, CSS, HTML, React e Firebase.
 - ⚡ Fun fact: I really like to sing 🎤 but I'm not so good
-- I'm ♈
+-  I'm ♈
 
 #
 
