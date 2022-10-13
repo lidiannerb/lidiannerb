@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Lidianne, I'm from Brazil. I'm a **Front-End development** student at Laboratória-SP.
+I'm Lidianne, I started my career in technology at the @Laboratória. Currently, I work as an Systems Analyst at Raízen.
 
 I'm passionate about solving problems and sharing knowledge. I'm always open to new challenges and ready to face changes.
 
